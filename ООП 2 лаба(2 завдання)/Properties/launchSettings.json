@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ООП 2 лаба(2 завдання)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
